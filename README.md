@@ -1,3 +1,3 @@
-# UCF-MSDA-workshop
+# UCF MSDA ML Seminar Series
 
-Materials for ongoing workshop series for UCF Master in Data Analytics (MSDA) students.
+Here we post materials for the ongoing ML Seminar series offered to current students (and alumni!) of the Masters of Science in Data Analytics (MSDA) program at UCF
